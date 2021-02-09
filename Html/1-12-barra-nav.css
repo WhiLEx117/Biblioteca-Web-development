@@ -1,0 +1,28 @@
+.navt{
+    display: inline-block;
+    background: dodgerblue;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.navt:hover{
+    background: violet;
+}
+.anclas{
+    display: flex;
+    justify-content: space-around;
+    background: rgb(0, 71, 141);
+    padding: 10px;
+}
+body{
+    background:rgb(51, 51, 51);
+}
+@media(max-width:400px){
+    .anclas{
+        background: black;
+        flex-direction: column;
+    }
+    .navt{
+        margin: 10px 0;
+    }
+}

@@ -1,0 +1,14 @@
+/* Vamos a usar 3 tipos de formas para agregar diseño a etiquetas HTML
+1. Puede ser por medio de etiquetas HTML.
+2. Por medio de ID.
+3. Por medio de clases
+*/
+body{
+    background-color: dodgerblue;
+}
+#id{
+    background-color: dodgerblue;
+}
+.class{
+    background-color: dodgerblue;
+}

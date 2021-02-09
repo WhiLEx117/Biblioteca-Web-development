@@ -1,0 +1,22 @@
+nav{
+    background: dodgerblue;
+    padding: 20px;
+}
+.columna{
+    background: violet;
+    color: white;
+    padding: 20px;
+    width: 25%;
+    margin: 20px;
+}
+.padre{
+    display: flex;
+
+}
+.columna2{
+    background: violet;
+    color: white;
+    padding: 20px;
+    width: 25%;
+    margin: 20px;
+}

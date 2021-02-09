@@ -1,0 +1,8 @@
+h1{
+    background: violet;
+    display: inline-block;
+}
+a{
+    background: dodgerblue;
+    display: block;
+}
